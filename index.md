@@ -7,3 +7,7 @@ I have edited an empty file to test making headers in markdown.
 ``` javascript
 var myVar = "GitHbu Practice Code";
 ```
+
+- [ ] Markdown Checklist 1
+- [ ] Markdown Checklist 2
+- [ ] Markdown Checklist 3
